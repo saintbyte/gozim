@@ -1,4 +1,4 @@
-module github.com/akhenakh/gozim
+module github.com/saintbyte/gozim
 
 go 1.17
 
